@@ -7,9 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on project.
 - 🌱 I’m currently learning Full Stack Development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: aniketroy.onrender.com(personal portfolio website)
+- 📫 How to reach me: aniketroyportfolio.vercel.app(personal portfolio website. Currently update is in progress.)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: interested to learn in dynamic environment.
